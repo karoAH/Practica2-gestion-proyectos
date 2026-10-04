@@ -1,7 +1,7 @@
 # Practica 2 -Gestion de Proyectos de Software
 Alumnas:
-- Karen Guillén - CBTis 182
-- Alexandra Jacobo - CBTis 182
+- Karen Jacquelin Guillén Ramírez  - CBTis 182
+- Alexandra Marisol Jacobo Herrera  - CBTis 182
 
 Materia:Gestión de Proyectos de Software
 Profesor: Peregrino
